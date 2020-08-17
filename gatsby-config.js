@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Museumsgasthof Ochsen`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Florian Wollenzien`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `ein schöner, süßer alter Gasthof aus dem 15ten Jahrhundert mit leckeren Speisen`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`,
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Museumsgasthof Ochsen`,
+        short_name: `Ochsen`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#8F1E31`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/ochsen-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
