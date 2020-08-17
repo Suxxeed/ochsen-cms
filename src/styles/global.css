@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
+body {
+  font: 18px 'Source Sans Pro', Arial, sans-serif;
+  text-align: center;
+  background: #F8F8F8;
+}
+
+a {
+  color: #8F1E31;
+}
+
+h1 {
+  font-family: 'rothenburg_decorativenormal', 'Alex Brush', cursive;
+  font-size: 2.5em;
+  font-weight: 400;
+  margin: 0.5em;
+}
+
+p {
+  margin: 1em 10%;
+  font-weight: 350;
+}
+
+img {
+  max-width: 80%;
+}
+
+.block {
+  text-align: justify;
+}
+/*# sourceMappingURL=global.css.map */
