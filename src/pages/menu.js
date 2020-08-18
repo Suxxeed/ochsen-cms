@@ -1,8 +1,6 @@
-import React, { useState } from "react"
+import React from "react"
 
-import MenuPDF from "../../content/assets/Speisekarte.pdf"
-
-function MyApp() {
+const MenuPage = () => {
 
   return (
     <div>
@@ -11,4 +9,4 @@ function MyApp() {
   )
 }
 
-export default MenuPDF
+export default MenuPage
