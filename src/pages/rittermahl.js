@@ -6,8 +6,8 @@ const RitterPage = () => {
   return (
     <Layout title="Rittermahl im Ochsen">
       <article>
-        <h2>Rittermahl im Ochsen</h2>
-        <p className="block">
+        <h1 className="centered">Rittermahl im Ochsen</h1>
+        <p>
           <b>
             Seien Sie herzlich eingeladen, zu einem unvergesslichen und
             romantischen Festmahl aus der Zeit des Mittelalters. In wahrhaft
@@ -36,7 +36,7 @@ const RitterPage = () => {
           <br />
           <br />
         </p>
-        <p>
+        <p className="centered">
           Rittermahl - 6 G&auml;nge Men&uuml;
           <br />
           <br />
@@ -92,7 +92,7 @@ const RitterPage = () => {
           M&ouml;rselkuchen
           <br />
         </p>
-        <p className="block">
+        <p>
           <br />
           <br />
           Versp&uuml;ren Sie laibliche Gel&uuml;ste?

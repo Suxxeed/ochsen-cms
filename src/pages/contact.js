@@ -5,23 +5,23 @@ import Layout from "../components/layout"
 const ContactPage = () => {
   return (
     <Layout title="Kontaktieren Sie uns!">
-      <h2>Kontakt</h2>
-      <p>
-        Besucher der Trutzveste Vellberg und des Museumsgasthof "Ochsen" haben
-        die Möglichkeit neben einer Erkundung der Festung Vellberg selbst, auch
-        zahlreiche andere Schlösser und Sehenswürdigkeiten in der Region
-        Hohenlohe zu besichtigen. Ob mit Auto, dem Rad oder zu Fuß, in unserer
-        Region Hohenlohe, gibt es noch vieles zu entdecken.
-        <br />
-        <br />
-        Gruppen & Familienfeiern auch außerhalb der Öffnungszeiten. Wir freuen
-        uns auf Ihren Besuch.
-      </p>
-      <section>
+      <h1 className="centered">Kontakt</h1>
+      <article>
+        <p>
+          Besucher der Trutzveste Vellberg und des Museumsgasthof "Ochsen" haben
+          die Möglichkeit neben einer Erkundung der Festung Vellberg selbst,
+          auch zahlreiche andere Schlösser und Sehenswürdigkeiten in der Region
+          Hohenlohe zu besichtigen. Ob mit Auto, dem Rad oder zu Fuß, in unserer
+          Region Hohenlohe, gibt es noch vieles zu entdecken.
+          <br />
+          <br />
+          Gruppen & Familienfeiern auch außerhalb der Öffnungszeiten. Wir freuen
+          uns auf Ihren Besuch.
+        </p>
         <a href={"tel:+4916093138278"}>+4916093138278</a>
         <br />
         <a href={"mailto:museumsgasthof@web.de"}>museumsgasthof@web.de</a>
-        <p>
+        <p className="centered">
           Mi-Sa. 12:00 bis 14:00 Uhr <br />
           & ab 18:00 Uhr <br />
           Sonn u. Feiertag ab 12:00
@@ -41,7 +41,7 @@ const ContactPage = () => {
           }
           allowfullscreen
         ></iframe>
-      </section>
+      </article>
     </Layout>
   )
 }

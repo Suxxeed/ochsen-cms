@@ -7,10 +7,10 @@ import ArtPic from "../../content/assets/kunst1.jpg"
 const ArtPage = () => {
   return (
     <Layout title="Kunst im Ochsen">
-      <article id="Kunst">
-        <h1>Kunst &amp; Antiquitaeten</h1>
+      <article>
+        <h1 className="centered">Kunst &amp; Antiquitaeten</h1>
         <img src={ArtPic} alt="Logo" />
-        <p>
+        <p className="centered">
           Romantische, besinnliche Landschaften
           <br />
           <br />

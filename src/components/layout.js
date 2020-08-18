@@ -9,7 +9,11 @@ const Layout = ({ title, children }) => {
   header = (
     <div>
       <nav>
-        <Link />
+        <Link to="/">Home</Link>
+        <Link to="/rittermahl">Rittermahl</Link>
+        <Link to="/whiskey">Whiskey</Link>
+        <Link to="/art">Kunst</Link>
+        <Link to="/contact">Kontakt</Link>
       </nav>
     </div>
   )
@@ -19,10 +23,10 @@ const Layout = ({ title, children }) => {
       <SEO title={title} />
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer className="centered">
         © 2017-{new Date().getFullYear()}
         {` `}
-        <a href="https://www.gatsbyjs.org">Impressum & Datenschutz</a>
+        <Link to="/impressum">Impressum & Datenschutz</Link>
       </footer>
     </div>
   )
