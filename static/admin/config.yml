@@ -10,10 +10,11 @@ collections:
     label: Blog
     folder: content/blog
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: true
     fields:
-      - { name: title, label: Title }
-      - { name: date, label: Publish Date, widget: datetime }
-      - { name: description, label: Description }
-      - { name: body, label: Body, widget: markdown }
+      - { name: title, label: Titel }
+      - { name: date, label: Event Datum , widget: datetime }
+      - { name: description, label: kurze Beschreibung }
+      - { name: body, label: Text, widget: markdown }

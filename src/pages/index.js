@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Food from "../components/food"
+import Events from "../components/events"
 
 import IntroPic from "../../content/assets/intro.jpg"
 
@@ -12,15 +13,14 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Food />
-      <img src={IntroPic} alt="Blick auf den Ochseneingang"/>
+      <div id="intro"></div>
       <section>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <article key={node.fields.slug}>
               <header>
-                <h1>
+                <h1 className="centered">
                   <Link to={node.fields.slug}>{title}</Link>
                 </h1>
                 <small>{node.frontmatter.date}</small>
@@ -34,6 +34,8 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </section>
+      <Food />
+      <Events />
     </Layout>
   )
 }

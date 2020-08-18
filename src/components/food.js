@@ -52,9 +52,11 @@ const Food = () => {
           Werfen sie gerne auch einen Blick auf die gesamte Speisekarte, diese
           steht Ihnen hier als PDF zur Verfügung.
         </p>
-        <Link href="/pages/speisekarte.html">
-          <img src={DownloadIcon} alt="Download-Icon" />
-        </Link>
+        <div className="centered">
+          <Link to="/pages/speisekarte.html">
+            <img src={DownloadIcon} alt="Dowload-Icon" />
+          </Link>
+        </div>
       </section>
     </div>
   )
