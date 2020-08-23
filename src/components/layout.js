@@ -26,7 +26,6 @@ const Layout = ({ title, children }) => {
   return (
     <div>
       <SEO title={title} />
-      <header>{header}</header>
       <main>{children}</main>
       <footer className="centered">
         <img
