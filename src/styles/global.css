@@ -80,4 +80,9 @@ footer {
   height: 48px;
   margin: 0 auto;
 }
+
+#brand {
+  position: absolute;
+  padding: 5px;
+}
 /*# sourceMappingURL=global.css.map */

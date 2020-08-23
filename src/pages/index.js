@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import Food from "../components/food"
 import Events from "../components/events"
 
-import IntroPic from "../../content/assets/intro.jpg"
+import TitleOchsen from "../../content/assets/titel_ochsen.svg"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -13,6 +13,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <img src={TitleOchsen} alt="Museumsgasthof Ochsen" id="brand" />
       <div id="intro"></div>
       <section>
         <h2 className="centered"><span>A</span>ktuelles</h2>
