@@ -15,7 +15,9 @@ const Events = () => {
           Zu einem denkmalgeschützten Haus, erbaut 1519, gehört auch ein
           mittelalterliches Festmahl im altehrwürdigen "Ratsherrenzimmer" und
           der "Guten Stube" im Ochsen zu Vellberg. Gruppenameldungen für das
-          Rittermahl sind ab 15 Personen möglich. <Link to="/rittermahl">Erfahren Sie mehr...</Link>
+          Rittermahl sind ab 15 Personen möglich.
+          <br />
+          <Link to="/rittermahl">Erfahren Sie mehr...</Link>
         </p>
         <img src={OchsenInnen} alt="Eindruck vom Gasthof" />
       </section>
@@ -29,6 +31,8 @@ const Events = () => {
           <br />
           Bei knisterndem Feuer erleben Sie Pr&auml;sentation &quot;Wasser des
           Lebens&quot;
+          <br />
+          <Link to="/whiskey">Erfahren Sie mehr...</Link>
         </p>
         <img src={Tasting} alt="Foto eines Whisky-Tastingsevents" />
       </section>
@@ -42,6 +46,8 @@ const Events = () => {
           Kunstliebhaber unter Antiquitäten,Kunst &amp; Krempel, Kostbarkeiten
           und Kurioses zum Kauf. Im kleinen Atelier finden auch in gemütlicher
           Runde kreative Workshops statt.
+          <br />
+          <Link to="/art">Erfahren Sie mehr...</Link>
         </p>
       </section>
     </div>
