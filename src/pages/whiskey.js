@@ -6,7 +6,7 @@ const WhiskeyPage = () => {
   return (
     <Layout title="Whiskey-Tasting im Ochsen">
       <h1 className="centered">Whisky-Tasting mit "Stage"</h1>
-      <article>
+      <section>
         <p>
           <b>
             Bei den edlen Whiskies gibt es feine Unterschiede, von fruchtig,
@@ -90,7 +90,7 @@ const WhiskeyPage = () => {
           <br />
           o Dauer: ca. 3,5 Stunden <br />o Teilnehmer: 8 bis 28 Personen
         </p>
-      </article>
+      </section>
     </Layout>
   )
 }

@@ -2,7 +2,7 @@ import React from "react"
 
 const IamyouPage = () => {
   return (
-    <div>
+    <section>
       <h2>I am You</h2>
       <h4>Wir haben es in der Hand</h4>
       <p className="block">
@@ -119,7 +119,7 @@ const IamyouPage = () => {
         <br />
         <br />
       </p>
-      <p>
+      <p className="centered">
         <b>3 Tage Woche & ein bedingungsloses Grundeinkommen.</b>
         <br />
         <br />
@@ -139,7 +139,7 @@ const IamyouPage = () => {
         Produktion ( Haltbarkeit von Geräten etc. , Verschwendung von
         Ressourcen) u.v.m
       </p>
-    </div>
+    </section>
   )
 }
 

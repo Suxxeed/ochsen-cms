@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 const RitterPage = () => {
   return (
     <Layout title="Rittermahl im Ochsen">
-      <article>
+      <section>
         <h1 className="centered">Rittermahl im Ochsen</h1>
         <p>
           <b>
@@ -117,7 +117,7 @@ const RitterPage = () => {
           <br />
           &Auml;nderungen sind vorbehalten
         </p>
-      </article>
+      </section>
     </Layout>
   )
 }

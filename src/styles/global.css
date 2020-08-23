@@ -20,7 +20,7 @@ h1 {
 p {
   margin: 1em 0;
   font-weight: 350;
-  text-align: justify;
+  text-align: left;
 }
 
 b {
@@ -37,7 +37,7 @@ hr {
   border: 0px solid #8F1E31;
 }
 
-section, article {
+section {
   margin: 0 5%;
 }
 

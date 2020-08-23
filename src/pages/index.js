@@ -15,14 +15,15 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <div id="intro"></div>
       <section>
+        <h2 className="centered"><span>A</span>ktuelles</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <article key={node.fields.slug}>
               <header>
-                <h1 className="centered">
+                <h4>
                   <Link to={node.fields.slug}>{title}</Link>
-                </h1>
+                </h4>
                 <small>{node.frontmatter.date}</small>
               </header>
                 <p

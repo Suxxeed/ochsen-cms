@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 const ImpressumPage = () => {
   return (
     <Layout title="Impressum/Datenschutz">
-      <article>
+      <section>
         <h2>Impressum</h2>
 
         <h4>Angaben gem&auml;&szlig; &sect; 5 TMG</h4>
@@ -502,7 +502,7 @@ const ImpressumPage = () => {
         <p>
           Quelle: <a href="https://www.e-recht24.de">e-recht24.de</a>
         </p>
-      </article>
+      </section>
     </Layout>
   )
 }

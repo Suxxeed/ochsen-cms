@@ -5,8 +5,8 @@ import Layout from "../components/layout"
 const ContactPage = () => {
   return (
     <Layout title="Kontaktieren Sie uns!">
-      <h1 className="centered">Kontakt</h1>
-      <article>
+      <section>
+        <h1 className="centered">Kontakt</h1>
         <p>
           Besucher der Trutzveste Vellberg und des Museumsgasthof "Ochsen" haben
           die Möglichkeit neben einer Erkundung der Festung Vellberg selbst,
@@ -41,7 +41,7 @@ const ContactPage = () => {
           }
           allowfullscreen
         ></iframe>
-      </article>
+      </section>
     </Layout>
   )
 }

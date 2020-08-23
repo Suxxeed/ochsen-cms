@@ -48,7 +48,7 @@ const Food = () => {
       </Slider>
       <section>
         <br />
-        <p className="centered">
+        <p>
           Werfen sie gerne auch einen Blick auf die gesamte Speisekarte, diese
           steht Ihnen hier als PDF zur Verfügung.
         </p>

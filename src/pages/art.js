@@ -7,7 +7,7 @@ import ArtPic from "../../content/assets/kunst1.jpg"
 const ArtPage = () => {
   return (
     <Layout title="Kunst im Ochsen">
-      <article>
+      <section>
         <h1 className="centered">Kunst &amp; Antiquitaeten</h1>
         <img src={ArtPic} alt="Logo" />
         <p className="centered">
@@ -33,7 +33,7 @@ const ArtPage = () => {
           <br />
           Mail: museumsgasthof@web.de
         </p>
-      </article>
+      </section>
     </Layout>
   )
 }
