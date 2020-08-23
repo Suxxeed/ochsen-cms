@@ -8,7 +8,6 @@ body {
 
 a {
   color: #8F1E31;
-  text-decoration: none;
 }
 
 h1 {
@@ -52,6 +51,15 @@ footer {
 
 .centered {
   text-align: center;
+}
+
+.partner-icon {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.partner-icon img {
+  margin: 5px;
 }
 
 #intro {

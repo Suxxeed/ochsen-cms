@@ -37,7 +37,19 @@ const Layout = ({ title, children }) => {
           width="260px"
         />
         <hr id="footer-hr" />
-        <a href="https://www.besh.de/" target="_blank" rel="noreferrer">
+        <p className="centered">
+          Mi-Sa. 12:00 bis 14:00 Uhr <br />
+          & ab 18:00 Uhr <br />
+          Sonn u. Feiertag ab 12:00
+        </p>
+        <p className="centered">
+          Museumsgasthof Ochsen
+          <br />
+          Im St&auml;dtle 3<br />
+          74541 Vellberg
+          <br />
+        </p>
+        <a href="https://www.besh.de/" target="_blank" rel="noreferrer" className="partner-icon">
           <img
             title="Bäuerliche Erzeugergemeinschaft Schwäbisch Hall"
             src={Besh}
@@ -45,7 +57,7 @@ const Layout = ({ title, children }) => {
             height="80px"
           />
         </a>
-        <a href="https://www.eichelschwein.de" target="_blank" rel="noreferrer">
+        <a href="https://www.eichelschwein.de" target="_blank" rel="noreferrer" className="partner-icon">
           <img
             title="Eichelschein GmbH"
             src={EichelschweinIcon}
@@ -53,14 +65,14 @@ const Layout = ({ title, children }) => {
             height="80px"
           />
         </a>
-        <a href="https://www.slowfood.de/" target="_blank" rel="noreferrer">
+        <a href="https://www.slowfood.de/" target="_blank" rel="noreferrer" className="partner-icon">
           <img
             title="SlowFood"
             src={SlowfoodIcon}
             alt="slowfood"
             height="80px"
           />
-        </a>{" "}
+        </a>
         <br />
         <hr id="footer-hr" />© 2017-{new Date().getFullYear()}
         {` `}

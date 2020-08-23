@@ -21,18 +21,6 @@ const ContactPage = () => {
         <a href={"tel:+4916093138278"}>+4916093138278</a>
         <br />
         <a href={"mailto:museumsgasthof@web.de"}>museumsgasthof@web.de</a>
-        <p className="centered">
-          Mi-Sa. 12:00 bis 14:00 Uhr <br />
-          & ab 18:00 Uhr <br />
-          Sonn u. Feiertag ab 12:00
-        </p>
-        <p>
-          Museumsgasthof Ochsen
-          <br />
-          Im St&auml;dtle 3<br />
-          74541 Vellberg
-          <br />
-        </p>
         <iframe
           frameborder="0"
           style={{ border: 0 }}
