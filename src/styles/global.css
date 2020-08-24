@@ -75,6 +75,18 @@ footer {
           justify-content: center;
 }
 
+.cropped {
+  width: 600px;
+  height: 300px;
+  overflow: hidden;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.cropped img {
+  margin: -10px 0px 0px -180px;
+}
+
 #intro {
   background-image: url("../../content/assets/intro.jpg");
   background-repeat: no-repeat;

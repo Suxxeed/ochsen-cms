@@ -3,12 +3,11 @@ module.exports = {
     title: `Museumsgasthof Ochsen`,
     author: {
       name: `Florian Wollenzien`,
-      summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `ein schöner, süßer alter Gasthof aus dem 15ten Jahrhundert mit leckeren Speisen`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https:museumsgasthof.de`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `k`,
     },
   },
   plugins: [

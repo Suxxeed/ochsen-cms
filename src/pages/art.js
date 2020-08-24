@@ -9,7 +9,7 @@ const ArtPage = () => {
     <Layout title="Kunst im Ochsen">
       <section>
         <h1 className="centered">Kunst &amp; Antiquitaeten</h1>
-        <img src={ArtPic} alt="Logo" />
+        <img src={ArtPic} alt="Logo" className="cropped"/>
         <p className="centered">
           Romantische, besinnliche Landschaften
           <br />

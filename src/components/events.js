@@ -19,7 +19,7 @@ const Events = () => {
           <br />
           <Link to="/rittermahl">Erfahren Sie mehr...</Link>
         </p>
-        <img src={OchsenInnen} alt="Eindruck vom Gasthof" />
+        <img src={OchsenInnen} alt="Eindruck vom Gasthof" className="cropped"/>
       </section>
 
       <section>
@@ -34,7 +34,7 @@ const Events = () => {
           <br />
           <Link to="/whiskey">Erfahren Sie mehr...</Link>
         </p>
-        <img src={Tasting} alt="Foto eines Whisky-Tastingsevents" />
+        <img src={Tasting} alt="Foto eines Whisky-Tastingsevents" className="cropped"/>
       </section>
 
       <section>
