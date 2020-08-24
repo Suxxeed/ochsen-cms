@@ -2,16 +2,16 @@
   background: #8f1e31;
   color: #f8f8f8;
 }
-.slick-slide {
-  height: 200px;
-  padding: 1em 0;
+#slider img {
+  width: 98%;
+  margin: 0;
 }
-.slick-slide img {
-  height: 200px;
+.slick-slide {
+  padding: 1em 0;
 }
 .slick-dots li button:before {
   color: #f8f8f8;
 }
 .slick-dots li.slick-active button:before {
-    color:#f8f8f8 !important;
+  color: #f8f8f8 !important;
 }

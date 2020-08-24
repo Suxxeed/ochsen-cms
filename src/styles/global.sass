@@ -36,10 +36,14 @@ footer
     font-size: 0.8em
 .centered
     text-align: center
-.partner-icon
+.link-no-underline
     box-shadow: none
 .partner-icon img
     margin: 5px
+.flex
+    display: flex
+    flex-direction: column
+    justify-content: center
 #intro
     background-image: url("../../content/assets/intro.jpg")
     background-repeat: no-repeat
@@ -56,4 +60,23 @@ footer
 #brand
     position: absolute
     padding: 5px
-    
+    left: 50%
+    transform: translateX(-50%)
+@media only screen and (min-width: 768px)
+    section, .slick-slider
+        margin: 0 10%
+    h2, h3
+        font-size: 2em
+    .flex
+        flex-direction: row
+    .flex p
+        padding: 0 1em
+@media only screen and (min-width: 1024px)
+    section, .slick-slider
+        margin: 0 20%
+@media only screen and (min-width: 1216px)
+    section, .slick-slider
+        margin: 0 25%
+@media only screen and (min-width: 1408px)
+    section, .slick-slider
+        margin: 0 30%

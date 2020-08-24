@@ -29,7 +29,7 @@ const Food = () => {
 
   return (
     <div id="food">
-      <Slider {...settings}>
+      <Slider {...settings}  id="slider">
         <div>
           <img src={FoodPic1} alt="leckeres Essen" />
         </div>
@@ -53,7 +53,7 @@ const Food = () => {
           steht Ihnen hier als PDF zur Verfügung.
         </p>
         <div className="centered">
-          <Link to="/pages/speisekarte.html">
+          <Link to="/pages/speisekarte.html" className="link-no-underline">
             <img src={DownloadIcon} alt="Dowload-Icon" />
           </Link>
         </div>

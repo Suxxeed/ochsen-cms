@@ -53,13 +53,26 @@ footer {
   text-align: center;
 }
 
-.partner-icon {
+.link-no-underline {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
 
 .partner-icon img {
   margin: 5px;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 #intro {
@@ -84,5 +97,44 @@ footer {
 #brand {
   position: absolute;
   padding: 5px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
+@media only screen and (min-width: 768px) {
+  section, .slick-slider {
+    margin: 0 10%;
+  }
+  h2, h3 {
+    font-size: 2em;
+  }
+  .flex {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  .flex p {
+    padding: 0 1em;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  section, .slick-slider {
+    margin: 0 20%;
+  }
+}
+
+@media only screen and (min-width: 1216px) {
+  section, .slick-slider {
+    margin: 0 25%;
+  }
+}
+
+@media only screen and (min-width: 1408px) {
+  section, .slick-slider {
+    margin: 0 30%;
+  }
 }
 /*# sourceMappingURL=global.css.map */
