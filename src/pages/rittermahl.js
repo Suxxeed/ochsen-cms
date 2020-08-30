@@ -6,7 +6,9 @@ const RitterPage = () => {
   return (
     <Layout title="Rittermahl im Ochsen">
       <section>
-        <h1 className="centered">Rittermahl im Ochsen</h1>
+        <h3 className="centered">
+          <span>R</span>ittermahl
+        </h3>
         <p>
           <b>
             Seien Sie herzlich eingeladen, zu einem unvergesslichen und

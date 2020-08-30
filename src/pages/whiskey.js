@@ -5,7 +5,9 @@ import Layout from "../components/layout"
 const WhiskeyPage = () => {
   return (
     <Layout title="Whiskey-Tasting im Ochsen">
-      <h1 className="centered">Whisky-Tasting mit "Stage"</h1>
+      <h3 className="centered">
+        <span>W</span>hisky-Tasting
+      </h3>
       <section>
         <p>
           <b>
