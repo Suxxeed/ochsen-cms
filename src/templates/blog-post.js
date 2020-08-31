@@ -11,16 +11,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout title={siteTitle}>
-      <article>
+      <section>
         <header>
-          <h1
+          <h3
             style={{
               marginTop: rhythm(1),
               marginBottom: 0,
             }}
           >
             {post.frontmatter.title}
-          </h1>
+          </h3>
           <p
             style={{
               ...scale(-1 / 5),
@@ -32,12 +32,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         </header>
         <p dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-      </article>
+      </section>
 
       <nav>
         <ul
