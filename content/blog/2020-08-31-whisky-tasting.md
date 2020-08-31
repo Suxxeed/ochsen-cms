@@ -21,4 +21,6 @@ Trotz Vorsichtsmaßnahmen freuen wir uns Ihnen einen unvergesslichen Abend berei
 
 Bitte haben Sie Verständnis, dass eine telefonische Reservierung erforderlich ist.
 
+Änderungen Vorbehalten.
+
 Wir freuen uns auf Ihren Besuch!
