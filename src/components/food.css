@@ -2,7 +2,7 @@
   background: #8f1e31;
   color: #f8f8f8;
 }
-#slider img {
+.slick-slide img {
   width: 98%;
   margin: 0;
 }
