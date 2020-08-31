@@ -1,7 +1,7 @@
 ---
-title: London Taxiu
+title: London Taxi
 date: 2020-08-31T17:31:09.379Z
-description: London Taxi, Überlandfahrt & Hochzeitskutsche
+description: London Taxi, Überlandfahrt & Hochzeitskutsche mit Charm
 ---
 Wir freuen uns Ihnen unser London Taxi mit Fahrer für Ihre Hochzeit oder Überlandfahrt zur Verfügung stellen zu können.
 
