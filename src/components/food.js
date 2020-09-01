@@ -53,7 +53,7 @@ const Food = () => {
           steht Ihnen hier als PDF zur Verfügung.
         </p>
         <div className="centered">
-          <Link to="/pages/speisekarte.html" className="link-no-underline">
+          <Link to="menu" className="link-no-underline">
             <img src={DownloadIcon} alt="Dowload-Icon" />
           </Link>
         </div>

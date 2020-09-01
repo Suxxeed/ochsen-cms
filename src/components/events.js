@@ -30,7 +30,7 @@ const Events = () => {
           Die Welt der Whiskys im Museumsgasthof &quot;Ochsen&quot;.
           <br />
           Bei knisterndem Feuer erleben Sie Pr&auml;sentation &quot;Wasser des
-          Lebens&quot;
+          Lebens&quot;.
           <br />
           <Link to="/whiskey">Erfahren Sie mehr...</Link>
         </p>
