@@ -9,31 +9,25 @@ const ArtPage = () => {
     <Layout title="Kunst im Ochsen">
       <section>
         <h3 className="centered">
-          <span>K</span>unst &amp; Antiquit&auml;ten
+          <span>K</span>unst &amp; Krempel
         </h3>
         <img src={ArtPic} alt="Logo" className="cropped" />
         <p className="centered">
-          Romantische, besinnliche Landschaften
+          Auch in diesen Zeiten möchten wir auf unseren kleinen Saal im Anschluß
+          vom Ratsherrenzimmer aufmerksam machen. Sei es als Zeitvertreib,
+          Gruschteln, Entdecken oder Erwerb eines Mitbringsel und Andenken aus
+          Vellberg, wir laden Sie herzlich ein, unsere historischen Räume zu
+          entdecken. Bestückt mit viel Handwerkskunst, allerlei Kurioses aus dem
+          16 Jrht. bis zur Neuzeit wird Sie mit Sicherheit erstaunen.
+          <br />
+          Die Ausstellung ist ebenfalls zu unseren Öffnungszeiten zugänglich.
           <br />
           <br />
-          Hier kann man nicht nur seine Kreativit&auml;t ausleben,
-          <br />
-          seinen Gef&uuml;hlen Ausdruck verleihen, sondern auch wunderbar
-          abschalten. <br />
-          <br />
-          Termine: nach Vereinbarung
+          Gerne machen wir auch auf Anfrage einen kleinen Exkurs und Führung
+          durch die Räume.
           <br />
           <br />
-          20,- &euro; / Pers. inkl. Material (ca. 3 Std. Sie erarbeiten
-          garantiert ein Bild Keilrahmen/Leinwand Ma&szlig;e 30 x 40 )<br />
-          <br />
-          Ich freue mich auf Ihre Anfrage.
-          <br />
-          <br />
-          Tel.: 0160/93138278
-          <br />
-          <br />
-          Mail: museumsgasthof@web.de
+          Herzlich Willkommen. Romantische, besinnliche Landschaften
         </p>
       </section>
     </Layout>

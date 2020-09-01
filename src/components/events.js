@@ -29,8 +29,7 @@ const Events = () => {
         <p>
           Die Welt der Whiskys im Museumsgasthof &quot;Ochsen&quot;.
           <br />
-          Bei knisterndem Feuer erleben Sie Pr&auml;sentation &quot;Wasser des
-          Lebens&quot;.
+          4 Schottische Whisky & 3 Gänge-Menü
           <br />
           <Link to="/whiskey">Erfahren Sie mehr...</Link>
         </p>
@@ -39,7 +38,7 @@ const Events = () => {
 
       <section>
         <h3>
-          <span>K</span>unst &amp; Antiquit&auml;ten
+          <span>K</span>unst &amp; Krempel
         </h3>
         <p>
           Im "kleinen Saal" des Museumsgasthofes Ochsen finden nicht nur

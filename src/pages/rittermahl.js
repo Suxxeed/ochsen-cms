@@ -31,10 +31,7 @@ const RitterPage = () => {
           Als unsere Ritter, Edelleut und Hofdamen werden Sie begr&uuml;&szlig;t
           mit einem Becher s&uuml;&szlig;em und s&uuml;ffigen, hei&szlig; oder
           kalten Mets. Auf gedeckten Tafeln finden Sie eine reichhaltige Auswahl
-          von ausgesuchten Speisen. Selbstverst&auml;ndlich werden Sie umsorgt
-          von mittelalterlich gekleideten Knechten und M&auml;gden. Zur Tafel
-          frohlocken, bezirzen und verzaubern Sie manchmal derb, oftmals
-          liebreizende Frauenzimmer zum musizieren, Tanz und allerlei Frohsinn.
+          von ausgesuchten Speisen.
           <br />
           <br />
         </p>
@@ -66,11 +63,10 @@ const RitterPage = () => {
           <br />
           Scharfe Schulter vom Schwein, geraucht und gesalzen.
           <br />
-          Bestes Fleisch vom Rind, ein quoter batzen, gebraten in einer salzen
+          <small>Bestes Fleisch vom Rind, ein quoter batzen, gebraten in einer salzen
           von rotem weine, Tartuffelen in guter Butter, <br />
           Eiergeb&auml;ck in langen b&auml;ndern und klos vom Laib, Zwiebelenmus
-          und feine R&uuml;ben
-          <br />
+          und feine R&uuml;ben</small>
           <br />
           **********
           <br />
@@ -95,20 +91,6 @@ const RitterPage = () => {
           <br />
         </p>
         <p>
-          <br />
-          <br />
-          Versp&uuml;ren Sie laibliche Gel&uuml;ste?
-          <br />
-          Sind Sie neugierig und m&ouml;chten zur Feier, Familientreffen Ihre
-          G&auml;ste &uuml;berraschen?
-          <br />
-          Wir freuen uns auf Ihre Anfrage.
-          <br />
-          <br />
-          Pauschalpreis inkl. 6 G&auml;nge &ndash;Men&uuml; / Buffet und
-          Unterhaltungsprogramm (Musik auf originalgetreuen Instrumenten:
-          Sackpfeiffen, Trommeln, Fl&ouml;ten, Krummen Zinken etc., Tanz und
-          erbauliches kostbares Text &ndash;u. Liedgut).
           <br />
           ab 15 G&auml;sten 62,- &euro; p.Pers.
           <br />
