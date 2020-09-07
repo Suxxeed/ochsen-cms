@@ -9,9 +9,7 @@ import SlowfoodIcon from "../../content/assets/slowfood.png"
 import Besh from "../../content/assets/besh.png"
 
 const Layout = ({ title, children }) => {
-  let header
-
-  header = (
+  let header = (
     <div>
       <nav>
         <Link to="/">Home</Link>

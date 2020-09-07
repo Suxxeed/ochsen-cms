@@ -30,6 +30,7 @@ const ContactPage = () => {
           <iframe
             frameborder="0"
             style={{ border: 0 }}
+            title="google map"
             src={
               "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJldmk-ZRXmEcRCXBdIy5OOqo&key=AIzaSyBvELOZetsuNw1DmIMo51X3DvCmbjzzbJY"
             }

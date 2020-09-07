@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useEffect } from "react"
 import { Document, Page, pdfjs } from "react-pdf"
 
 import Layout from "../components/layout"
@@ -10,9 +10,9 @@ const MenuPage = () => {
 
   const [numPages, setNumPages] = React.useState(null)
   //const [pageNumber, setPageNumber] = React.useState(1)
-  const screenWidth = window.screen.width
+  let screenWidth = 0
 
-  var pages = []
+  let pages = []
 
   function onDocumentLoadSuccess({ numPages }) {
     setNumPages(numPages)
@@ -21,6 +21,10 @@ const MenuPage = () => {
   for (var i = 1; i < numPages + 1; i++) {
     pages.push(<Page key={i} pageNumber={i} width={screenWidth} />)
   }
+
+  useEffect(() => {
+    let screenWidth = window.screen.width
+  })
 
   return (
     <Layout title="Speisekarte">
