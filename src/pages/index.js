@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import Food from "../components/food"
 import Events from "../components/events"
+import Button from "../components/button"
 
 import TitleOchsen from "../../content/assets/titel_ochsen.svg"
 
@@ -38,6 +39,7 @@ const BlogIndex = ({ data, location }) => {
       </section>
       <Food />
       <Events />
+      <Button />
     </Layout>
   )
 }
