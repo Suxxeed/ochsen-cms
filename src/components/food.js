@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import "./food.css"
 
-import DownloadIcon from "../../content/assets/speisen_download_white.svg"
+import MenuIcon from "../../content/assets/eat.svg"
 import FoodPic1 from "../../content/assets/speise1.jpg"
 import FoodPic2 from "../../content/assets/speise2.jpg"
 import FoodPic3 from "../../content/assets/speise3.jpg"
@@ -50,11 +50,11 @@ const Food = () => {
         <br />
         <p>
           Werfen sie gerne auch einen Blick auf die gesamte Speisekarte, diese
-          steht Ihnen hier als PDF zur Verfügung.
+          steht Ihnen hier zur Verfügung.
         </p>
         <div className="centered">
           <Link to="menu" className="link-no-underline">
-            <img src={DownloadIcon} alt="Dowload-Icon" />
+            <img src={MenuIcon} alt="Dowload-Icon" style={{ width: 35 }}/>
           </Link>
         </div>
       </section>
