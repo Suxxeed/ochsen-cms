@@ -3,7 +3,7 @@ title: Live-Musik
 date: 2020-10-24T17:01:00.000Z
 description: Musikabend Live Musik Gitarre, Klavier, Harfe, etc.
 ---
-Trotz Corona möchten wir nicht auf Live-Musik verzichten. Wir haben daher alle notwendigen Maßnahmen vorbereitet, um Ihre Sicherheit gewährleisten zu können. Mit Ihrer Unterstützung steht einem musikalischen, unvergesslichen Abend nichts im Weg.
+Trotz Corona möchten wir nicht auf Live-Musik verzichten. Wir haben daher alle notwendigen Maßnahmen vorbereitet, um Ihre Sicherheit gewährleisten zu können. Mit Ihrer Unterstützung steht einem unvergesslichen Abend nichts mehr im Weg.
 
 \* Restaurant geöffnet ab 17:00 Uhr
 
@@ -13,6 +13,6 @@ Trotz Corona möchten wir nicht auf Live-Musik verzichten. Wir haben daher alle 
 
 \* Speisenausgabe 17:00 Uhr bis 19:30 Uhr
 
-Telefonische Reservierungen sind auch hier erforderlich. 
+Telefonische Reservierungen sind erforderlich. 
 
 Herzlich Willkommen!
