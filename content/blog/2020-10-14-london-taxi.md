@@ -1,16 +1,20 @@
 ---
 title: London Taxi
-date: 2020-10-14T14:45:32.820Z
-description: London Taxi, Überlandfahrt & Hochzeitskutsche mit Charm
+date: 2020-11-03T21:06:54.871Z
+description: Abwechslung in Corona Zeiten.
 ---
-Wir freuen uns Ihnen unser London Taxi mit Fahrer für Hochzeit, Überlandfahrt bis Abhol -u. Bringservice ( km 1,80 € ) zur Verfügung stellen zu können.
+Machen Sie sich eine Freude.
+
+Transfer zum Bahnhof, zum Shoppen, Termin oder einfach nur als Hol u. Bringservice nach Ihrem Wunsch.
+
+ ( km 1,80 € )
 
 Hersteller : Austin
 
 Baujahr: 1971
 
-max. Personen : 4 
+max. Personen : 2 
 
-Durch die Trennscheibe zum Fahrer sind entsprechende Corona-Vorsichtsmaßnahmen mit viel Charm gelöst. Selbst kleine Gardinen im Fahrgastraum sind möglich. Sekt, div. Getränke sind ebenfalls kein Problem und können wenn gewünscht aus der Bordbar genutzt werden. 
+Durch die Trennscheibe zum Fahrer sind entsprechende Corona-Vorsichtsmaßnahmen mit viel Charm gelöst. 
 
 Alle weiteren Informationen bezügl. Zeiten und Preise bitte auf Anfrage.( 016093138278 )
