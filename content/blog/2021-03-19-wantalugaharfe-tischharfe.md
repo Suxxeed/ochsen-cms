@@ -17,6 +17,4 @@ Die Tischharfe, Elfenharfe, Wantaluga-Harfe ist ein Zupfinstrument mit schönem 
 
 Für das Instrument gibt es eine einfache Notenschrift. Das Notenblatt wird unter die Saiten geschoben und ermöglicht durch Zupfen der aufgedruckten Punkte/ Noten ein Spielen "vom Blatt". Ohne Vorkenntnisse kann so jeder die schönsten Lieder spielen und gemeinsam musizieren
 
-
-
-![Wantaluga- Elfenharfe](/assets/harfe.ochsen.jpg "Wantaluga-Elfenharfe ")
+![Wantaluga- Elfenharfe](/assets/harfe.web.jpg "Wantaluga-Elfenharfe ")
