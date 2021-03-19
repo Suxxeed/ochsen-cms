@@ -3,7 +3,7 @@ title: London Taxi
 date: 2021-03-19T16:56:38.733Z
 description: Abwechslung in Corona Zeiten.
 ---
-![... nur einmal in einem echten London Taxi.](/assets/taxi.ochsen.jpg "... nur einmal in einem echten London Taxi.")
+![... nur einmal in einem echten London Taxi.](/assets/taxi.web.jpg "... nur einmal in einem echten London Taxi.")
 
 Machen Sie sich eine Freude.
 
