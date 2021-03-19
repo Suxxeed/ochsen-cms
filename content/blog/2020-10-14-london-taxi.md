@@ -1,8 +1,10 @@
 ---
 title: London Taxi
-date: 2020-11-03T21:06:54.871Z
+date: 2021-03-19T16:56:38.733Z
 description: Abwechslung in Corona Zeiten.
 ---
+![... nur einmal in einem echten London Taxi.](/assets/taxi.ochsen.jpg "... nur einmal in einem echten London Taxi.")
+
 Machen Sie sich eine Freude.
 
 Transfer zum Bahnhof, zum Shoppen, Termin oder einfach nur als Hol u. Bringservice nach Ihrem Wunsch.
