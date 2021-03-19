@@ -1,28 +1,12 @@
 ---
-title: Aussichten Corona 12.2020
+title: Aussichten Corona 3.2021
 date: 2020-11-03T20:53:25.257Z
-description: Advents & Weihnachtsfeiern in familiärer Atmosphäre
+description: Ganz sicher kommt der Sommer...........
 ---
-
-
 **Aussichten**
 
-Das Jahr 2020 bleibt uns ganz sicher im Gedächtnis………………
+So sicher wie der Sommer doch vor der Türe stehen wird, werden wir wohl ab 01 Mai wieder unsere Türen öffnen können.
 
-Auf vieles müssen wir verzichten…..
+Außengastronomie, Feiern u. Feste, Ausfahrten mit unserem London Taxi, Live-Musik am Brunnen.
 
-Wir schauen positiv in die Zukunft und wünschen uns für die Advents u. Weihnachtszeit trotz fehlender Weihnachtsmärkte, etwas gemütliches, besinnliches, fröhliches und positive Aussichten.
-
-\*\*\*\*\*\*\*\**
-
-Eine unvergessliche Feier im kleinen Rahmen, Musikabend, Whisky-Tasting, festliches 3- Gänge Menü, Mittelalterspeis!
-
-Im Dezember Freitag/Samstag/Sonntag
-
-Wir freuen uns auf Ihre Anfrage
-
-016093138278
-
-Dabei sorgen wir für Ihre Sicherheit !
-
-<!--EndFragment-->
+Gerne stehen wir für Ihre Planungen und Wünsche zu Verfügung. Tel.016093138278
