@@ -1,12 +1,12 @@
 ---
-title: Aussichten Corona 3.2021
-date: 2020-11-03T20:53:25.257Z
-description: Ganz sicher kommt der Sommer...........
+title: Aussichten Corona Juni.2021
+date: 2021-05-21T10:33:11.448Z
+description: Der Sommer kommt bestimmt
 ---
 **Aussichten**
 
-So sicher wie der Sommer doch vor der Türe stehen wird, werden wir wohl ab 01 Mai wieder unsere Türen öffnen können.
+Nach derzeitigem Stand können wir wohl ab Mitte Juni, mindestens jedoch ab 1 Juli die Außengastronomie wieder öffen. Dann haben wir wieder täglich ab 12:00 Uhr geöffnet. Mit Mittagstisch sowie Kaffee & Kuchen......  ( Schweden Kaffee bleibt wohl zu ) begrüßen wir herzlich unsere Gäste. 
 
-Außengastronomie, Feiern u. Feste, Ausfahrten mit unserem London Taxi, Live-Musik am Brunnen.
+Feiern u. Feste, Ausfahrten mit unserem London Taxi, Live-Musik am Brunnen.
 
 Gerne stehen wir für Ihre Planungen und Wünsche zu Verfügung. Tel.016093138278
