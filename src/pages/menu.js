@@ -3,7 +3,7 @@ import { Document, Page, pdfjs } from "react-pdf"
 
 import Layout from "../components/layout"
 
-import PDF from "../../content/assets/Speisekarte.pdf"
+import PDF from "../../static/assets/speisekarte.pdf"
 
 const MenuPage = () => {
   pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`
