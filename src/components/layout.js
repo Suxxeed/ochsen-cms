@@ -35,9 +35,11 @@ const Layout = ({ title, children }) => {
         />
         <div className="flex">
           <p className="centered">
-            Mi-Sa. 12:00 bis 14:00 Uhr <br />
-            & ab 18:00 Uhr <br />
-            Sonn u. Feiertag ab 12:00
+            Museumsgasthof Ochsen
+            <br />
+            Im St&auml;dtle 3<br />
+            74541 Vellberg
+            <br />
           </p>
         </div>
         <a
