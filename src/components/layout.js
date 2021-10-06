@@ -33,19 +33,11 @@ const Layout = ({ title, children }) => {
           height="190px"
           width="260px"
         />
-        <hr id="footer-hr" />
         <div className="flex">
           <p className="centered">
             Mi-Sa. 12:00 bis 14:00 Uhr <br />
             & ab 18:00 Uhr <br />
             Sonn u. Feiertag ab 12:00
-          </p>
-          <p className="centered">
-            Museumsgasthof Ochsen
-            <br />
-            Im St&auml;dtle 3<br />
-            74541 Vellberg
-            <br />
           </p>
         </div>
         <a
@@ -88,7 +80,7 @@ const Layout = ({ title, children }) => {
           />
         </a>
         <br />
-        <hr id="footer-hr" />© 2017-{new Date().getFullYear()}
+        © 2017-{new Date().getFullYear()}
         {` `}
         <Link to="/impressum">Impressum & Datenschutz</Link>
       </footer>
