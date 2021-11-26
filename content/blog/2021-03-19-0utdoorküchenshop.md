@@ -1,6 +1,6 @@
 ---
 title: Outdoorkuechenshop
-date: 2021-05-21T23:05:12.370Z
+date: 2021-11-26T12:27:48.341Z
 description: Hochwertige und exclusive Outdoorkuechen aus Edelstahl und Teak.
 ---
 [Outdoorkuechenshop](https://outdoorkuechenshop.de)
