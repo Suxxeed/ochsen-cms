@@ -5,7 +5,9 @@ description: Goldener Herbst
 ---
 **Aussichten**
 
-Wir bitten Sie bezügl. notwendiger Kontrollen um Verständnis.( 3 G -Kontrolle, Adressnachweis ) 
+Aus gegebenen Anlass haben wir nur noch ab 18:00 Uhr geöffnet.
+
+Wir bitten Sie bezügl. notwendiger Kontrollen um Verständnis.( 2 G -Kontrolle, Adressnachweis erforderlich ) 
 
 Feiern u. Feste, Ausfahrten mit unserem London Taxi, Live-Musik am Brunnen u v m.
 
