@@ -1,8 +1,26 @@
 ---
-title: Wantalugaharfe-Tischharfe
-date: 2021-11-26T12:22:39.420Z
+title: Wantalugaharfe
+date: 2021-12-22T15:45:00.891Z
 description: Musik für Dich. Ohne Notenkenntnisse gemeinsam musizieren.
 ---
+**Rechtzeitig zu Weihnachten.**
+
+Verscheidene Modelle der Serie Sonata sind fertiggestellt. Sei es Ahorn, Nußbaum, Esche, verschiedene Einlegearbeiten, Schallochringe etc. stehen zur Auswahl.
+
+Sie können die Instrumente gerne ausprobieren, vereinbaren Sie einen Termin.
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Werkstatt Tischharfen/ Kleininstrumente** 
 
 tägl. geöffnet.
@@ -21,4 +39,4 @@ Die Tischharfe, Elfenharfe, Wantaluga-Harfe ist ein Zupfinstrument mit schönem 
 
 Für das Instrument gibt es eine einfache Notenschrift. Das Notenblatt wird unter die Saiten geschoben und ermöglicht durch Zupfen der aufgedruckten Punkte/ Noten ein Spielen "vom Blatt". Ohne Vorkenntnisse kann so jeder die schönsten Lieder spielen und gemeinsam musizieren
 
-![Wantaluga- Elfenharfe](/assets/harfe.web.jpg "Wantaluga-Elfenharfe ")
+![Wantaluga- Elfenharfe](/assets/img_0301.jpg "Wantaluga-Elfenharfe ")
