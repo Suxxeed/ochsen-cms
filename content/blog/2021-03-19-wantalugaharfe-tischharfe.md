@@ -9,18 +9,6 @@ Verscheidene Modelle der Serie Sonata sind fertiggestellt. Sei es Ahorn, Nußbau
 
 Sie können die Instrumente gerne ausprobieren, vereinbaren Sie einen Termin.
 
-
-
-
-
-
-
-
-
-
-
-
-
 **Werkstatt Tischharfen/ Kleininstrumente** 
 
 tägl. geöffnet.
@@ -39,4 +27,4 @@ Die Tischharfe, Elfenharfe, Wantaluga-Harfe ist ein Zupfinstrument mit schönem 
 
 Für das Instrument gibt es eine einfache Notenschrift. Das Notenblatt wird unter die Saiten geschoben und ermöglicht durch Zupfen der aufgedruckten Punkte/ Noten ein Spielen "vom Blatt". Ohne Vorkenntnisse kann so jeder die schönsten Lieder spielen und gemeinsam musizieren
 
-![Wantaluga- Elfenharfe](/assets/img_0301.jpg "Wantaluga-Elfenharfe ")
+![Wantaluga- Elfenharfe]( "Wantaluga-Elfenharfe ")
