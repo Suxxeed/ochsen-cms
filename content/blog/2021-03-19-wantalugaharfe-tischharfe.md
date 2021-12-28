@@ -7,6 +7,8 @@ description: Musik für Dich. Ohne Notenkenntnisse gemeinsam musizieren.
 
 Verscheidene Modelle der Serie Sonata sind fertiggestellt. Sei es Ahorn, Nußbaum, Esche, verschiedene Einlegearbeiten, Schallochringe etc. stehen zur Auswahl.
 
+http://www.wantaluga.de
+
 Preise auf Anfrage.
 
 Sie können die Instrumente gerne ausprobieren, vereinbaren Sie einen Termin.
