@@ -7,4 +7,4 @@ description: Wir wünschen ein gutes, gesundes Jahr 2022
 
 Aus gegebenen Anlass haben wir Januar & Februar geschlossen.
 
-Gerne stehen wir für Ihre Planungen und Wünsche zu Verfügung. Tel.016093138278
+Gerne stehen wir aber für Ihre Planungen und Wünsche 2022 zur Verfügung. Tel.016093138278
