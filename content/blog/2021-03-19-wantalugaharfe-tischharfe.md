@@ -1,6 +1,6 @@
 ---
 title: Wantalugaharfe
-date: 2021-12-22T15:45:00.891Z
+date: 2022-01-16T12:05:04.315Z
 description: Musik für Dich. Ohne Notenkenntnisse gemeinsam musizieren.
 ---
 **Rechtzeitig zu Weihnachten.**
@@ -15,7 +15,7 @@ Sie können die Instrumente gerne ausprobieren, vereinbaren Sie einen Termin.
 
 **Werkstatt Tischharfen/ Kleininstrumente** 
 
-tägl. geöffnet.
+Geöffnet -Bitte einen Termin telefonisch vereinbaren.
 
 **Aus gegebenen Anlass Termine nur nach Vereinbarung.** ( 016093138278 )
 
@@ -24,6 +24,8 @@ Als HEP, Klavier & Cembalobauer habe ich nun die Zeit genutzt und mich dem Upcyc
 Im kleinen Saal ist eine kleine Werkstatt entstanden und im Frühjahrsemester der VHS Schwäbisch Hall können Sie nicht nur einen Kurs zum Bau einer Tischharfe besuchen sondern auch das Spielen der Harfe in der Gruppe genießen.
 
 VHS Kurse ab Frühjahrsemester  Der Bau einer Tischharfe & Gemeinsam musizieren.
+
+**Wir bitten um Ihre Verständnis- Corona bedingt können sich Angebote und Termine verändern.**
 
 Wantaluga kommt aus dem alt-hochdeutschen Sprachgebrauch und bedeutet "Wandlung"
 
