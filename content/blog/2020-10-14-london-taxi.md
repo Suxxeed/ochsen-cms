@@ -1,7 +1,7 @@
 ---
 title: London Taxi
 date: 2021-03-19T16:56:38.733Z
-description: Abwechslung in Corona Zeiten.
+description: Verschaffen Sie sich Abwechslung, eine kleine Tour mit  Chauffeur.
 ---
 ![... nur einmal in einem echten London Taxi.](/assets/taxi.web.jpg "... nur einmal in einem echten London Taxi.")
 
