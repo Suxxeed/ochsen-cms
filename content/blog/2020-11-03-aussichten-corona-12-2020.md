@@ -5,10 +5,6 @@ description: "Frohe Adventszeit "
 ---
 **Aussichten**
 
-Aus gegebenen Anlass haben wir nur noch ab 18:00 Uhr geöffnet.
-
-Wir bitten Sie bezügl. notwendiger Kontrollen um Verständnis.( 2 G -Kontrolle, Adressnachweis erforderlich ) 
-
-Feiern u. Feste, Ausfahrten mit unserem London Taxi, Live-Musik am Brunnen u v m.
+Aus gegebenen Anlass haben wir Januar & Februar geschlossen.
 
 Gerne stehen wir für Ihre Planungen und Wünsche zu Verfügung. Tel.016093138278
