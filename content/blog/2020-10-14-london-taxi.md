@@ -1,6 +1,6 @@
 ---
 title: London Taxi
-date: 2021-03-19T16:56:38.733Z
+date: 2022-01-16T12:02:03.623Z
 description: Verschaffen Sie sich Abwechslung, eine kleine Tour mit  Chauffeur.
 ---
 ![... nur einmal in einem echten London Taxi.](/assets/taxi.web.jpg "... nur einmal in einem echten London Taxi.")
