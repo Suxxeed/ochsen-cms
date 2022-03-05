@@ -1,9 +1,9 @@
 ---
 title: Wantalugaharfe
-date: 2022-01-16T12:05:04.315Z
+date: 2022-03-05T23:18:38.557Z
 description: Musik für Dich. Ohne Notenkenntnisse gemeinsam musizieren.
 ---
-**Rechtzeitig zu Weihnachten.**
+**Musik für Dich.**
 
 Verscheidene Modelle der Serie Sonata sind fertiggestellt. Sei es Ahorn, Nußbaum, Esche, verschiedene Einlegearbeiten, Schallochringe etc. stehen zur Auswahl.
 
