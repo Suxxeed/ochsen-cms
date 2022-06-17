@@ -1,5 +1,5 @@
 ---
-title: Kickstarter
+title: Kickstarter Projekt Tischharfe
 date: 2022-06-17T21:42:25.271Z
 description: Begleite unser Projekt der Tischharfen auf Kickstarter
 ---
