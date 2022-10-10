@@ -3,7 +3,7 @@ title: Öffnungszeiten
 date: 2022-05-18T17:37:36.339Z
 description: Museumsgatshof- Werkstatt Dienstag - Donnerstag
 ---
-Do, Fr, Sa, Sonntag ab 12:00 Uhr durchgehend warme Küche.
+Fr, Sa ab 18:00 Uhr, Sonntag ab 12:00 durchgehend warme Küche. 
 
 Wir behalten uns vor, für Gruppen auch außerhalb der angegebenen Zeiten zu öffnen. 
 
