@@ -5,4 +5,4 @@ description: ...und alles ist  Musik mit Gitarre, Klavier, Harfe, etc.
 ---
 Liebe, Musik, Leidenschaft, Neugier, Heldentum - was sonst macht das Leben lebenswert?
 
-![Liebe, Musik, Leidenschaft, Neugier, Heldentum - was sonst macht das Leben lebenswert?](/assets/img_9232.jpg "Sommer")
+![Liebe, Musik, Leidenschaft, Neugier, Heldentum - was sonst macht das Leben lebenswert?]( "Sommer")
