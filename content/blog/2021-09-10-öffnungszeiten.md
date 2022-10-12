@@ -1,6 +1,6 @@
 ---
 title: Öffnungszeiten
-date: 2022-10-10T18:30:20.679Z
+date: 2022-10-12T17:41:43.325Z
 description: Museumsgasthof Freitag-Sonntag
 ---
 Fr, Sa ab 18:00 Uhr, Sonntag ab 12:00 durchgehend warme Küche. 
