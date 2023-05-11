@@ -2,9 +2,10 @@
 title: Museumsgasthof .... Location zu mieten, historische Raume, Stube,
   Ratsherrenzimmer und großer Saal mit Terrasse.
 date: 2023-05-01T21:05:44.198Z
-description: "Ihr Seminar, Tagung, Konzert oder Familienfeier in histrorischen Räumen..... "
+description: "Kaffee & Kuchen, Familienfeier, Vereine, Seminare & Konzerte in
+  histrorischen Räumen..... "
 ---
-**I﻿hre Feier, Konzert, Seminar**
+**K﻿affee und Kuchen, Familienfeier, Vereine, Seminare, Tagungen und Konzerte**
 
 **Stube, Ratsherrenzimmer & großer Saal**
 
@@ -14,13 +15,13 @@ Wir versetzen Sie in das vorherige Jahrhundert. Ist 1900!
 
 Im Museumsgasthof Ochsen, 1519 erbaut, erleben Sie Ihr Feier, Konzert, Seminar in unverwechselbaren Räumen.
 
-Diese Räume stehen Ihnen mit Küche und allem dazugehörigen Equipment zur Miete zur Verfügung.
+Diese Räume stehen Ihnen mit allem dazugehörigen Equipment zur Miete zur Verfügung.
 
-Stellen Sie eine Speisekarte nach Ihrer Fantasie zusammen, gestalten Sie die historische Stube, Ratsherrenzimmer und / oder Saal wie Sie es sich wünschen und verbringen Sie eine wundervolle Zeit mit Ihren Liebsten. 
+Gestalten Sie die historische Stube, Ratsherrenzimmer und / oder Saal wie Sie es sich wünschen und verbringen Sie eine wundervolle Zeit mit Ihren Liebsten. 
 
-Gerne tragen wir auf Wunsch vieles dazu bei. Von der Grundausstattung Küche bis Dekoration, Mittelalterzelt, Oldtimer, großer Grill ( indu+), Gastrokonzept "Flambi-Spieß", Live-Musiker uvm.  
+Gerne tragen wir auf Wunsch vieles dazu bei. Von der Grundausstattung, Dekoration, Mittelalterzelt, Oldtimer, großer Grill ( indu+), Gastrokonzept "Flambi-Spieß", Live-Musiker uvm.   
 
-S﻿tube 30 Plätze, Ratsherrenzimmer  20 Plätze, großer Saal  70 Plätze ( Konzert 80 Plätze ), Außen 60 Plätze
+S﻿tube 30 Plätze, Ratsherrenzimmer  20 Plätze, großer Saal  70-90 Plätze ( Konzert 80 Plätze ), Außen 60 Plätze
 
 Gerne unterbreiten wir Ihnen ein Angebot.
 
