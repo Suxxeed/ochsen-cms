@@ -9,7 +9,7 @@ description: "Kaffee & Kuchen, Familienfeier, Vereine, Seminare & Konzerte in
 
 **Stube, Ratsherrenzimmer & großer Saal**
 
-Sie kochen gerne, auch in Gesellschaft? Sie würden gerne Freunde oder Verwandte einladen um gemeinsam etwas ganz Besonderes zu erleben und eine wundervolle Zeit zu verbringen?
+Sie würden gerne Freunde oder Verwandte einladen um gemeinsam etwas ganz Besonderes zu erleben und eine wundervolle Zeit zu verbringen?
 
 Wir versetzen Sie in das vorherige Jahrhundert. Ist 1900!
 
@@ -17,11 +17,17 @@ Im Museumsgasthof Ochsen, 1519 erbaut, erleben Sie Ihr Feier, Konzert, Seminar i
 
 Diese Räume stehen Ihnen mit allem dazugehörigen Equipment zur Miete zur Verfügung.
 
-Gestalten Sie die historische Stube, Ratsherrenzimmer und / oder Saal wie Sie es sich wünschen und verbringen Sie eine wundervolle Zeit mit Ihren Liebsten. 
+**S﻿tube mit Kachelofen, Theke :                                   30 Plätze                                                                                             Ratsherrenzimmer mit Kachelofen, Renaissance:    20 Plätze                                                                                großer Saal mit Terrasse :                                          80 Plätze** 
 
-Gerne tragen wir auf Wunsch vieles dazu bei. Von der Grundausstattung, Dekoration, Mittelalterzelt, Oldtimer, großer Grill ( indu+), Gastrokonzept "Flambi-Spieß", Live-Musiker uvm.   
+Gerne tragen wir auf Wunsch vieles dazu bei. Von der Grundausstattung, Dekoration, Mittelalterzelt, Oldtimer, großer Grill ( indu+), Gastrokonzept "Flambi-Spieß", Live-Musiker uvm. 
 
-S﻿tube 30 Plätze, Ratsherrenzimmer  20 Plätze, großer Saal  70-90 Plätze ( Konzert 80 Plätze ), Außen 60 Plätze
+**Caterer**
+
+Landgasthof Stern Bühlertann                                                                www.stern-landgasthof.de/                                                                           Restaurant Rose Eschenau                                                                      www.eschenau-rose.de/    
+
+Landmetzgerei Setzer, Frau Silvia Setzer                                                [www.landmetzgerei.de](http://www.landmetzgerei.de)\
+Metzgerei und Partyservice Harald Schäfer, Frau Stark, Frau Spriegel   [www.metzgerei-spriegel.de/catering](http://www.metzgerei-spriegel.de/catering)\
+sbadische Backheisle, Forchtenberg                                                       [www.sbadische-backheisle.de](http://www.sbadische-backheisle.de)
 
 Gerne unterbreiten wir Ihnen ein Angebot.
 
@@ -33,4 +39,4 @@ Im Städtle 3
 
 016093138278
 
-![]()
+![Museumsgasthof Evenlocation](/assets/img_3391.jpg "Museumsgasthof Eventlocation")
