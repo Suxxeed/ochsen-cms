@@ -1,7 +1,7 @@
 ---
 title: Museumsgasthof .... Location zu mieten, historische Raume, Stube,
   Ratsherrenzimmer und großer Saal mit Terrasse.
-date: 2023-05-01T21:05:44.198Z
+date: 2023-05-15T18:15:54.254Z
 description: "Kaffee & Kuchen, Familienfeier, Vereine, Seminare & Konzerte in
   histrorischen Räumen..... "
 ---
