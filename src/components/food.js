@@ -46,18 +46,6 @@ const Food = () => {
           <img src={FoodPic5} alt="leckeres Essen" />
         </div>
       </Slider>
-      <section>
-        <br />
-        <p>
-          Werfen sie gerne auch einen Blick auf die gesamte Speisekarte, diese
-          steht Ihnen hier zur Verfügung.
-        </p>
-        <div className="centered">
-          <Link to="menu" className="link-no-underline">
-            <img src={MenuIcon} alt="Dowload-Icon" style={{ width: 35 }}/>
-          </Link>
-        </div>
-      </section>
     </div>
   )
 }
