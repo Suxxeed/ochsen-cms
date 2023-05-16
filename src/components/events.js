@@ -36,19 +36,6 @@ const Events = () => {
         <img src={Tasting} alt="Foto eines Whisky-Tastingsevents" className="cropped"/>
       </section>
 
-      <section>
-        <h3>
-          <span>K</span>unst &amp; Krempel
-        </h3>
-        <p>
-          Im "kleinen Saal" des Museumsgasthofes Ochsen finden nicht nur
-          Kunstliebhaber unter Antiquitäten,Kunst &amp; Krempel, Kostbarkeiten
-          und Kurioses zum Kauf. Im kleinen Atelier finden auch in gemütlicher
-          Runde kreative Workshops statt.
-          <br />
-          <Link to="/art">Erfahren Sie mehr...</Link>
-        </p>
-      </section>
     </div>
   )
 }
