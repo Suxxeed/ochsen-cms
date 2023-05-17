@@ -1,35 +1,25 @@
 ---
 title: Wantalugaharfe
-date: 2022-03-05T23:18:38.557Z
+date: 2023-05-17T06:18:03.866Z
 description: Musik für Dich. Ohne Notenkenntnisse gemeinsam musizieren.
 ---
 **Musik für Dich.**
 
-Verscheidene Modelle der Serie Sonata sind fertiggestellt. Sei es Ahorn, Nußbaum, Esche, verschiedene Einlegearbeiten, Schallochringe etc. stehen zur Auswahl.
-
 <http://wantaluga.de/>
 
-Preise auf Anfrage.
+M﻿odelle Sonata & Opus 
 
 Sie können die Instrumente gerne ausprobieren, vereinbaren Sie einen Termin.
 
 **Werkstatt Tischharfen/ Kleininstrumente** 
 
-Geöffnet -Bitte einen Termin telefonisch vereinbaren.
+Geöffnet -Bitte einen Termin telefonisch vereinbaren ( 016093138278 ).
 
-**Aus gegebenen Anlass Termine nur nach Vereinbarung.** ( 016093138278 )
-
-Als HEP, Klavier & Cembalobauer habe ich nun die Zeit genutzt und mich dem Upcycling von Zithern und Neubau von Tischharfen gewidmet.
-
-Im kleinen Saal ist eine kleine Werkstatt entstanden und im Frühjahrsemester der VHS Schwäbisch Hall können Sie nicht nur einen Kurs zum Bau einer Tischharfe besuchen sondern auch das Spielen der Harfe in der Gruppe genießen.
-
-VHS Kurse ab Frühjahrsemester  Der Bau einer Tischharfe & Gemeinsam musizieren.
-
-**Wir bitten um Ihre Verständnis- Corona bedingt können sich Angebote und Termine verändern.**
+Im kleinen Saal ist, angrenzend an Stube & Ratsherrenzimmer, eine kleine Werkstatt um Einblick in den Bau der Wantaluga Tischharfen zu bekommen. Dort kann man dem Instrumentenbauer über die Schulter schauen. Gerne natürlich auch die Tischharfe ausprobieren.
 
 Wantaluga kommt aus dem alt-hochdeutschen Sprachgebrauch und bedeutet "Wandlung"
 
-Die Tischharfe, Elfenharfe, Wantaluga-Harfe ist ein Zupfinstrument mit schönem vollen Klang, das ohne Notenkenntnisse gespielt werden kann.
+Die Tischharfe, Wantaluga-Harfe ist ein Zupfinstrument mit schönem vollen Klang, das ohne Notenkenntnisse gespielt werden kann.
 
 Für das Instrument gibt es eine einfache Notenschrift. Das Notenblatt wird unter die Saiten geschoben und ermöglicht durch Zupfen der aufgedruckten Punkte/ Noten ein Spielen "vom Blatt". Ohne Vorkenntnisse kann so jeder die schönsten Lieder spielen und gemeinsam musizieren
 
