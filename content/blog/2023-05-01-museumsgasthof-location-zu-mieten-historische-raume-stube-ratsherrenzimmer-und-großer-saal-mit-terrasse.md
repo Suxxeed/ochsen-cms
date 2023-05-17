@@ -10,8 +10,6 @@ description: "Kaffee & Kuchen, Familienfeier, Vereine, Seminare & Konzerte in
 
 Sie würden gerne Freunde oder Verwandte einladen um gemeinsam etwas ganz Besonderes zu erleben und eine wundervolle Zeit zu verbringen?
 
-Wir versetzen Sie in das vorherige Jahrhundert. Ist 1900!
-
 Im Museumsgasthof Ochsen, 1519 erbaut, erleben Sie Ihr Feier, Konzert, Seminar in unverwechselbaren Räumen.
 
 Diese Räume stehen Ihnen mit allem dazugehörigen Equipment zur Miete zur Verfügung.
