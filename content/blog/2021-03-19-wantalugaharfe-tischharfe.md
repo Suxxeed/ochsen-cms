@@ -3,9 +3,9 @@ title: Wantalugaharfe
 date: 2023-05-17T06:18:03.866Z
 description: Musik für Dich. Ohne Notenkenntnisse gemeinsam musizieren.
 ---
-**Musik für Dich.**
+**Musik für Dich**
 
-<http://wantaluga.de/>
+<https://wantaluga.de/>
 
 M﻿odelle Sonata & Opus 
 
