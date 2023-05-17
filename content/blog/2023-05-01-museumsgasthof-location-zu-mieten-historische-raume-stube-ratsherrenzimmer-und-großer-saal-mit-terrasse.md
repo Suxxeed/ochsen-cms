@@ -1,13 +1,12 @@
 ---
-title: Museumsgasthof .... Location zu mieten, historische Raume, Stube,
-  Ratsherrenzimmer und großer Saal mit Terrasse.
+title: Museumsgasthof .... Eventlocation mit Details
 date: 2023-05-15T18:15:54.254Z
 description: "Kaffee & Kuchen, Familienfeier, Vereine, Seminare & Konzerte in
   histrorischen Räumen..... "
 ---
-**K﻿affee und Kuchen, Familienfeier, Vereine, Seminare, Tagungen und Konzerte**
+**K﻿affee & Kuchen, Familienfeier, Vereine, Seminare, Tagungen und Konzerte** 
 
-**Stube, Ratsherrenzimmer & großer Saal**
+**Gebäude mit Stube, Ratsherrenzimmer, großer Saal & Terrasse**
 
 Sie würden gerne Freunde oder Verwandte einladen um gemeinsam etwas ganz Besonderes zu erleben und eine wundervolle Zeit zu verbringen?
 
@@ -17,7 +16,7 @@ Im Museumsgasthof Ochsen, 1519 erbaut, erleben Sie Ihr Feier, Konzert, Seminar i
 
 Diese Räume stehen Ihnen mit allem dazugehörigen Equipment zur Miete zur Verfügung.
 
-**S﻿tube mit Kachelofen, Theke :                                   30 Plätze                                                                                             Ratsherrenzimmer mit Kachelofen, Renaissance:    20 Plätze                                                                                großer Saal mit Terrasse :                                          80 Plätze** 
+**S﻿tube mit Kachelofen, Theke :                                   30 Plätze                                                                                              Ratsherrenzimmer mit Kachelofen, Renaissance:    20 Plätze                                                                                großer Saal mit Terrasse :                                          80 Plätze** 
 
 Gerne tragen wir auf Wunsch vieles dazu bei. Von der Grundausstattung, Dekoration, Mittelalterzelt, Oldtimer, großer Grill ( indu+), Gastrokonzept "Flambi-Spieß", Live-Musiker uvm. 
 
