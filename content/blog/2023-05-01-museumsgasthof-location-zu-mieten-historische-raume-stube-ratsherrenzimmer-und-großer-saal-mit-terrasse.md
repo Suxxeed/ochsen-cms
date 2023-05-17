@@ -1,6 +1,6 @@
 ---
 title: Museumsgasthof .... Eventlocation mit Details
-date: 2023-05-15T18:15:54.254Z
+date: 2023-05-17T06:24:25.100Z
 description: "Kaffee & Kuchen, Familienfeier, Vereine, Seminare & Konzerte in
   histrorischen Räumen..... "
 ---
@@ -35,5 +35,7 @@ Im Städtle 3
 74541 Vellberg
 
 016093138278
+
+m﻿ail: eurocenter@web.de
 
 ![Museumsgasthof Evenlocation](/assets/img_3391.jpg "Museumsgasthof Eventlocation")
