@@ -31,19 +31,19 @@ const Food = () => {
     <div id="food">
       <Slider {...settings}  id="slider">
         <div>
-          <img src={FoodPic1} alt="leckeres Essen" />
+          <img src={FoodPic1} alt="Eventlocation Ochsen Luftaufnahme" />
         </div>
         <div>
-          <img src={FoodPic2} alt="leckeres Essen" />
+          <img src={FoodPic2} alt="der große Saal im Ochsen" />
         </div>
         <div>
-          <img src={FoodPic3} alt="leckeres Essen" />
+          <img src={FoodPic3} alt="gute Stube des Museumsgasthofs" />
         </div>
         <div>
-          <img src={FoodPic4} alt="leckeres Essen" />
+          <img src={FoodPic4} alt="Stubeeingang" />
         </div>
         <div>
-          <img src={FoodPic5} alt="leckeres Essen" />
+          <img src={FoodPic5} alt="Nebenraum Ratsherrenzimmer" />
         </div>
       </Slider>
     </div>
