@@ -23,27 +23,26 @@ const Food = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     centerMode: true,
-    adaptiveHeight: true,
-    arrows: true,
+    variableWidth: false,
   }
 
   return (
     <div id="food">
       <Slider {...settings}  id="slider">
         <div>
-          <img src={FoodPic1} alt="Eventlocation Ochsen Luftaufnahme" width="1924" height="1234" />
+          <img src={FoodPic1} alt="Eventlocation Ochsen Luftaufnahme" width="1924" />
         </div>
         <div>
-          <img src={FoodPic2} alt="der große Saal im Ochsen" width="1238" height="1234" />
+          <img src={FoodPic2} alt="der große Saal im Ochsen" width="1238" />
         </div>
         <div>
-          <img src={FoodPic3} alt="gute Stube des Museumsgasthofs" width="1651" height="1234" />
+          <img src={FoodPic3} alt="gute Stube des Museumsgasthofs" width="1651" />
         </div>
         <div>
-          <img src={FoodPic4} alt="Stubeeingang" width="1634" height="1234" />
+          <img src={FoodPic4} alt="Stubeeingang" width="1634" />
         </div>
         <div>
-          <img src={FoodPic5} alt="Nebenraum Ratsherrenzimmer" width="931" height="1234" />
+          <img src={FoodPic5} alt="Nebenraum Ratsherrenzimmer" width="931" />
         </div>
       </Slider>
     </div>

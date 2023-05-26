@@ -1,17 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Alex+Brush&family=Montserrat&display=swap");
 @import url("https://fonts.cdnfonts.com/css/rothenburg-decorative");
 body {
-  font: 18px 'Montserrat', Arial, sans-serif;
+  font: 18px "Montserrat", Arial, sans-serif;
   text-align: left;
   background: #F8F8F8;
 }
 
 a {
-  color: #8F1E31;
+  color: rgba(143, 30, 49, 0.95);
+}
+
+h1, h2, h3 {
+  font-family: "Alex Brush", cursive;
+  font-size: 4.5em;
+  font-weight: 300;
+  color: #494949;
 }
 
 h1 {
-  font-family: 'Rothenburg Decorative', 'Alex Brush', cursive;
   font-size: 1.8em;
   font-weight: 400;
 }
@@ -23,11 +29,7 @@ p {
 }
 
 b {
-  font-weight: 400;
-}
-
-span {
-  font-family: 'Rothenburg Decorative', 'Alex Brush', cursive;
+  font-weight: 500;
 }
 
 hr {
@@ -37,7 +39,7 @@ hr {
 }
 
 section {
-  margin: 0 5%;
+  margin: 15% 5%;
 }
 
 nav {
@@ -46,17 +48,13 @@ nav {
 }
 
 footer {
+  text-align: center;
   font-size: 0.8em;
   margin-top: 3em;
 }
 
-.centered {
-  text-align: center;
-}
-
 .link-no-underline {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
 }
 
 .partner-icon img {
@@ -64,16 +62,9 @@ footer {
 }
 
 .flex {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .cropped {
@@ -97,6 +88,20 @@ footer {
   height: 60vh;
 }
 
+#introtext span {
+  color: #8F1E31;
+  font-weight: 405;
+}
+
+#catering li {
+  list-style: none;
+}
+#catering h3 {
+  font-size: 1.5rem;
+  font-family: "Montserrat", Arial, sans-serif;
+  color: rgba(143, 30, 49, 0.95);
+}
+
 #events {
   text-align: center;
 }
@@ -111,18 +116,16 @@ footer {
   position: absolute;
   padding: 5px;
   left: 50%;
-  -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
 }
 
 #button .wrapper {
   padding: 2em 0;
+  text-align: center;
 }
-
 #button .link_wrapper {
   position: absolute;
 }
-
 #button a {
   display: block;
   width: 300px;
@@ -135,43 +138,34 @@ footer {
   color: #fff;
   letter-spacing: 1px;
   border: 3px solid #222;
-  -webkit-transition: all .35s;
-  transition: all .35s;
+  transition: all 0.35s;
 }
-
 #button .icon {
   width: 50px;
   height: 50px;
   border: 3px solid transparent;
   position: absolute;
-  -webkit-transform: rotate(45deg);
-          transform: rotate(45deg);
+  transform: rotate(45deg);
   right: 0;
   top: 0;
   z-index: -1;
-  -webkit-transition: all .35s;
-  transition: all .35s;
+  transition: all 0.35s;
 }
-
 #button .icon svg {
   width: 30px;
   position: absolute;
   top: calc(50% - 15px);
   left: calc(50% - 15px);
-  -webkit-transform: rotate(-45deg);
-          transform: rotate(-45deg);
+  transform: rotate(-45deg);
   fill: #8F1E31;
-  -webkit-transition: all .35s;
-  transition: all .35s;
+  transition: all 0.35s;
 }
-
 #button a:hover {
   width: 250px;
   border: 3px solid #8F1E31;
   background: transparent;
   color: #8F1E31;
 }
-
 #button a:hover + .icon {
   border: 3px solid #8F1E31;
   right: -20%;
@@ -179,37 +173,30 @@ footer {
 
 @media only screen and (min-width: 768px) {
   section, .slick-slider {
-    margin: 0 10%;
+    margin: 10% 10%;
   }
   h2, h3 {
-    font-size: 2em;
+    font-size: 5em;
   }
   .flex {
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    flex-direction: row;
   }
   .flex p {
     padding: 0 1em;
   }
 }
-
 @media only screen and (min-width: 1024px) {
   section, .slick-slider {
-    margin: 0 20%;
+    margin: 8% 20%;
   }
 }
-
 @media only screen and (min-width: 1216px) {
   section, .slick-slider {
-    margin: 0 25%;
+    margin: 6% 25%;
   }
 }
-
 @media only screen and (min-width: 1408px) {
   section, .slick-slider {
-    margin: 0 30%;
+    margin: 4% 30%;
   }
-}
-/*# sourceMappingURL=global.css.map */
+}/*# sourceMappingURL=global.css.map */

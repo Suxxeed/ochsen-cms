@@ -10,9 +10,13 @@ body
     text-align: left
     background: $color_background
 a
-    color: $color_ochsenred
+    color: $color_light_ochsenred
+h1, h2, h3
+    font-family: 'Alex Brush', cursive
+    font-size: 4.5em
+    font-weight: 300
+    color: #494949
 h1
-    font-family: 'Rothenburg Decorative', 'Alex Brush', cursive
     font-size: 1.8em
     font-weight: 400
 p
@@ -20,23 +24,20 @@ p
     font-weight: 350
     text-align: left
 b
-    font-weight: 400
-span
-    font-family: 'Rothenburg Decorative', 'Alex Brush', cursive
+    font-weight: 500
 hr
     margin: 0 auto
     width: 80%
     border: 0px solid $color_ochsenred
 section
-    margin: 0 5%
+    margin: 15% 5%
 nav
     position: fixed
     top: 0
 footer
+    text-align: center
     font-size: 0.8em
     margin-top: 3em
-.centered
-    text-align: center
 .link-no-underline
     box-shadow: none
 .partner-icon img
@@ -59,6 +60,18 @@ footer
     background-position: 70%
     background-color: rgba(0, 0, 0, 0.15)
     height: 60vh
+#introtext
+    span
+        color: $color_ochsenred
+        font-weight: 405
+#catering
+    li
+        list-style: none
+    h3
+        font-size: 1.5rem
+        font-family: 'Montserrat', Arial, sans-serif
+        color: $color_light_ochsenred
+
 #events
     text-align: center
 #icon-bottom-ochsen
@@ -73,6 +86,7 @@ footer
 #button
   .wrapper
     padding: 2em 0
+    text-align: center
   .link_wrapper
     position: absolute
   a
@@ -117,19 +131,19 @@ footer
 
 @media only screen and (min-width: 768px)
     section, .slick-slider
-        margin: 0 10%
+        margin: 10% 10%
     h2, h3
-        font-size: 2em
+        font-size: 5em
     .flex
         flex-direction: row
     .flex p
         padding: 0 1em
 @media only screen and (min-width: 1024px)
     section, .slick-slider
-        margin: 0 20%
+        margin: 8% 20%
 @media only screen and (min-width: 1216px)
     section, .slick-slider
-        margin: 0 25%
+        margin: 6% 25%
 @media only screen and (min-width: 1408px)
     section, .slick-slider
-        margin: 0 30%
+        margin: 4% 30%

@@ -9,7 +9,7 @@ const Events = () => {
     <div id="events">
       <section>
         <h3>
-          <span>R</span>ittermahl
+          Rittermahl
         </h3>
         <p>
           Zu einem denkmalgeschützten Haus, erbaut 1519, gehört auch ein
@@ -24,7 +24,7 @@ const Events = () => {
 
       <section>
         <h3>
-          <span>W</span>hisky-Tasting
+          Whisky-Tasting
         </h3>
         <p>
           Die Welt der Whiskys im Museumsgasthof &quot;Ochsen&quot;.
