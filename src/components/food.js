@@ -23,7 +23,7 @@ const Food = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     centerMode: true,
-    adaptiveHeight: false,
+    adaptiveHeight: true,
     arrows: true,
   }
 
