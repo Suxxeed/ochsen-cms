@@ -7,15 +7,18 @@ import "slick-carousel/slick/slick-theme.css"
 import "./food.css"
 
 import MenuIcon from "../../content/assets/eat.svg"
-import FoodPic1 from "../../content/assets/speise1.jpg"
-import FoodPic2 from "../../content/assets/speise2.jpg"
-import FoodPic3 from "../../content/assets/speise3.jpg"
-import FoodPic4 from "../../content/assets/speise4.jpg"
-import FoodPic5 from "../../content/assets/speise5.jpg"
+import Pic1 from "../../content/assets/1.jpg"
+import Pic2 from "../../content/assets/2.jpg"
+import Pic3 from "../../content/assets/3.jpg"
+import Pic4 from "../../content/assets/4.jpg"
+import Pic5 from "../../content/assets/5.jpg"
+import Pic6 from "../../content/assets/6.jpg"
+import Pic7 from "../../content/assets/7.jpg"
+import Pic8 from "../../content/assets/8.jpg"
 
 const Food = () => {
   const settings = {
-    dots: true,
+    dots: false,
     infinite: true,
     speed: 500,
     autoplay: true,
@@ -23,26 +26,34 @@ const Food = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     centerMode: true,
-    variableWidth: false,
   }
 
   return (
     <div id="food">
       <Slider {...settings}  id="slider">
         <div>
-          <img src={FoodPic1} alt="Eventlocation Ochsen Luftaufnahme" width="1924" />
+          <img src={Pic1} alt="Eventlocation Ochsen Luftaufnahme" />
         </div>
         <div>
-          <img src={FoodPic2} alt="der große Saal im Ochsen" width="1238" />
+          <img src={Pic2} alt="der große Saal im Ochsen" />
         </div>
         <div>
-          <img src={FoodPic3} alt="gute Stube des Museumsgasthofs" width="1651" />
+          <img src={Pic3} alt="gute Stube des Museumsgasthofs" />
         </div>
         <div>
-          <img src={FoodPic4} alt="Stubeeingang" width="1634" />
+          <img src={Pic4} alt="Stubeeingang" />
         </div>
         <div>
-          <img src={FoodPic5} alt="Nebenraum Ratsherrenzimmer" width="931" />
+          <img src={Pic5} alt="Nebenraum Ratsherrenzimmer" />
+        </div>
+        <div>
+          <img src={Pic6} alt="Nebenraum Ratsherrenzimmer" />
+        </div>
+        <div>
+          <img src={Pic7} alt="Nebenraum Ratsherrenzimmer" />
+        </div>
+        <div>
+          <img src={Pic8} alt="Nebenraum Ratsherrenzimmer" />
         </div>
       </Slider>
     </div>
