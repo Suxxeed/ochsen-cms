@@ -7,6 +7,9 @@ import Events from "../components/events"
 import Button from "../components/button"
 
 import TitleOchsen from "../../content/assets/titel_ochsen.svg"
+import GroßerSaal from "../../content/assets/großerSaal.jpg"
+import Ratsherrenzimmer from "../../content/assets/Ratsherrenzimmer.jpg"
+import Stube from "../../content/assets/Stube.jpg"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -26,11 +29,26 @@ const BlogIndex = ({ data, location }) => {
           </section>
 
           <section>
-          <p>Stube mit Kachelofen, Theke : <span>30 Plätze</span></p>
+          <p>Stube mit Kachelofen, Theke: <span>30 Plätze</span></p>
           <p>Ratsherrenzimmer mit Kachelofen, Renaissance: <span>20 Plätze</span></p>
-          <p>Plätze großer Saal mit Terrasse : <span>80 Plätze</span></p>
+          <p>großer Saal mit Terrasse: <span>80 Plätze</span></p>
         </section>
       </div>
+
+      <section id="catering">
+        <h2>Catering</h2>
+        <ul>
+          <li><a href="https://www.stern-landgasthof.de" target="_blank"><h3>Landgasthof Stern Bühlertann</h3></a></li>
+          <li><a href="https://www.eschenau-rose.de/" target="_blank"><h3>Restaurant Rose Eschenau</h3></a></li>
+          <li><a href="https://www.landmetzgerei.de" target="_blank"><h3>Landmetzgerei Setzer, Frau Silvia Setzer</h3></a></li>
+          <li><a href="https://www.metzgerei-spriegel.de/catering" target="_blank"><h3>Metzgerei und Partyservice Harald Schäfer, Frau Stark, Frau Spriegel</h3></a></li>
+          <li><a href="https://www.sbadische-backheisle.de" target="_blank"><h3>sbadische Backheisle, Forchtenberg</h3></a></li>
+        </ul>
+      </section>
+
+      <Food />
+
+      <Events />
 
       <section>
         <h2 className="centered">Aktuelles</h2>
@@ -52,21 +70,6 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </section>
-
-      <Food />
-
-      <section id="catering">
-        <h2>Unsere Catering-Partner</h2>
-        <ul>
-          <li><a href="https://www.stern-landgasthof.de" target="_blank"><h3>Landgasthof Stern Bühlertann</h3></a></li>
-          <li><a href="https://www.eschenau-rose.de/" target="_blank"><h3>Restaurant Rose Eschenau</h3></a></li>
-          <li><a href="https://www.landmetzgerei.de" target="_blank"><h3>Landmetzgerei Setzer, Frau Silvia Setzer</h3></a></li>
-          <li><a href="https://www.metzgerei-spriegel.de/catering" target="_blank"><h3>Metzgerei und Partyservice Harald Schäfer, Frau Stark, Frau Spriegel</h3></a></li>
-          <li><a href="https://www.sbadische-backheisle.de" target="_blank"><h3>sbadische Backheisle, Forchtenberg</h3></a></li>
-        </ul>
-      </section>
-
-      <Events />
 
       <Button />
 
