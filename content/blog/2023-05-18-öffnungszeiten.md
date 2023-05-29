@@ -5,6 +5,8 @@ description: Öffnungszeiten Museumsgasthof
 ---
 **U﻿nsere Räume, Stube, Ratsherrenzimmern, großer Saal mit Terrasse stehen ab sofort zum Mieten für Kaffeeklatsch, Familienfeiern, Hochzeiten, Seminare und Konzerte zur Verfügung.**
 
+**A﻿nspr. A. Marek** 
+
 **F﻿ür Gruppen, Ausflugsfahrten  Busse - Termine auf Anfrage.**
 
 T﻿el.016093138278
