@@ -11,7 +11,9 @@ M﻿odelle Sonata & Opus
 
 Sie können die Instrumente gerne ausprobieren, vereinbaren Sie einen Termin.
 
-**Laden im Städtle 24, 74541 Vellberg direkt auf dem Marktplatz                                                            Werkstatt für Zupfinstrumente, Im Städtle 3 ( kleiner Saal im Museumsgasthof Ochsen ) meist WE geöffnet**
+**I﻿hr Musikgeschäft : Wantaluga Music**
+
+**Im Städtle 24, 74541 Vellberg direkt auf dem Marktplatz.                                                                       Werkstatt für Zupfinstrumente, Im Städtle 3 ( kleiner Saal im Museumsgasthof Ochsen ) meist WE geöffnet**
 
  Bitte einen Termin telefonisch vereinbaren ( 016093138278 ).
 
@@ -23,4 +25,4 @@ Die Tischharfe, Wantaluga-Harfe ist ein Zupfinstrument mit schönem vollen Klang
 
 Für das Instrument gibt es eine einfache Notenschrift. Das Notenblatt wird unter die Saiten geschoben und ermöglicht durch Zupfen der aufgedruckten Punkte/ Noten ein Spielen "vom Blatt". Ohne Vorkenntnisse kann so jeder die schönsten Lieder spielen und gemeinsam musizieren
 
-![Wantaluga- Elfenharfe](/assets/img_0459.jpg "Wantaluga-Elfenharfe ")
+![Wantaluga- Elfenharfe](/assets/img_e1775.jpg "Wantaluga-Elfenharfe ")
