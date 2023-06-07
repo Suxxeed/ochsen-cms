@@ -1,5 +1,5 @@
 ---
-title: Veeh-Harfen, Wantalugaharfen Konzert, im großen Saal, Museumsgasthof Ochsen
+title: Konzert im großen Saal. Wantalugaharfe, Veeh-Harfe
 date: 2023-06-07T09:52:45.708Z
 description: Konzert im großen Saal, Museumsgasthof Ochsen
 ---
