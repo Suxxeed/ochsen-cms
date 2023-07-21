@@ -3,7 +3,7 @@ title: Öffnungszeiten
 date: 2023-07-14T09:19:26.179Z
 description: Öffnungszeiten Museumsgasthof
 ---
-**U﻿nsere Räume, Stube, Ratsherrenzimmern, großer Saal mit Terrasse stehen ab sofort zum Mieten für Kaffeeklatsch, Familienfeiern, Hochzeiten, Seminare und Konzerte zur Verfügung.**
+**U﻿nsere Räume, Stube, Ratsherrenzimmern, großer Saal mit Terrasse stehen ab sofort zum Mieten für Kaffeeklatsch, Familienfeiern, Hochzeiten, Seminare und Konzerte zur Verfügung**
 
 **A﻿uch stundenweise für Meetings, Musikprobe, Präsentation etc. zu vermieten.** 
 
