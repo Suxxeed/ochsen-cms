@@ -1,5 +1,6 @@
 ---
-title: Konzert im großen Saal. Wantalugaharfe, Veeh-Harfe
+title: Matinee im großen Saal.Es spielt das Ensemble "Mehrklang" vom Schönblick
+  in Schwäbisch Gmünd
 date: 2023-09-17T09:00:00.000Z
 description: Matinee im großen Saal. Es spielt das Ensemble "Mehrklang" vom
   Schönblick in Schwäbisch Gmünd
