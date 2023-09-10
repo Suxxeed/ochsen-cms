@@ -1,10 +1,7 @@
 ---
 title: Konzert im großen Saal. Wantalugaharfe, Veeh-Harfe
-date: 2023-09-02T12:00:00.000Z
-description: Konzert im großen Saal, Museumsgasthof Ochsen
+date: 2023-09-17T09:00:00.000Z
+description: Matinee im großen Saal. Es spielt das Ensemble "Mehrklang" vom
+  Schönblick in Schwäbisch Gmünd
 ---
-K﻿onzert für Tischharfen, Veeh-Harfe, Wantalugaharfe am Sonntag den 02.09.2023 um 14:00 Uhr.
-
-E﻿intritt frei. Munter beschwingt von Volkslied,Schlager & Klassik
-
-H﻿erzlich Willkommen im großen Saal, Museumsgasthof Ochsen
+D﻿as Ensemble wurde 06.05.2016 gegründet
