@@ -1,10 +1,9 @@
 ---
-title: Zu Mieten/Pachten
-date: 2023-07-21T14:23:56.053Z
-description: Pachtobjekt/ Geschäftsflächen
+title: Neueröffnung
+date: 2024-11-18T10:38:57.012Z
+description: "Neueröffnung Betrieb ab 01.11.2024 "
 ---
-<https://www.kleinanzeigen.de/s-anzeige/schloss-trutzveste-vellberg-museumsgasthof-zu-vepachten/2670622506-277-9158>
-
-
-
-A﻿nfragen bitte an Tel.: 0160 93138278
+N﻿eueröffnung mit 01.11.2024. 
+D﻿ie Homepage ist derzeit in Bearbeiteung
+B﻿etreiber . Herr Samoila Nicolae
+T﻿el.0151 631 62 350  mail: Perlasamco@gmail.de
