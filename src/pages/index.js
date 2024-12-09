@@ -22,6 +22,12 @@ const BlogIndex = ({ data, location }) => {
 
       <div id="introtext"> 
         <section>
+          <b>Veränderung liegt in der Luft!</b>
+          <p>Liebe Gäste,
+            ein Besitzerwechsel steht bevor, und wir befinden uns mitten in der Übergangsphase. Sobald alles geklärt ist, wird auch unsere Webseite aktualisiert.
+            Vielen Dank für Ihre Geduld – wir freuen uns darauf, Sie willkommen zu heißen!
+            Samoila Nicolae</p>
+              
           <b>Sie würden gerne Freunde oder Verwandte einladen um gemeinsam etwas ganz Besonderes zu erleben und eine wundervolle Zeit zu verbringen?</b>
           <p>Kaffee & Kuchen, Familienfeier, Vereine, Seminare, Tagungen und Konzerte <br></br>
             Gebäude mit Stube, Ratsherrenzimmer, großer Saal & Terrasse</p>
