@@ -79,6 +79,10 @@ footer {
   margin: -10px 0px 0px -180px;
 }
 
+.display-none {
+  display: none;
+}
+
 #intro {
   background-image: url("../../content/assets/intro.jpg");
   background-repeat: no-repeat;
