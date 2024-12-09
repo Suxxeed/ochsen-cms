@@ -28,20 +28,21 @@ const BlogIndex = ({ data, location }) => {
             Vielen Dank für Ihre Geduld – wir freuen uns darauf, Sie willkommen zu heißen!
             Samoila Nicolae</p>
               
+            </section>
+
+        <section className="display-none">
           <b>Sie würden gerne Freunde oder Verwandte einladen um gemeinsam etwas ganz Besonderes zu erleben und eine wundervolle Zeit zu verbringen?</b>
           <p>Kaffee & Kuchen, Familienfeier, Vereine, Seminare, Tagungen und Konzerte <br></br>
             Gebäude mit Stube, Ratsherrenzimmer, großer Saal & Terrasse</p>
           <p>Im Museumsgasthof Ochsen, 1519 erbaut, erleben Sie Ihr Feier, Konzert, Seminar in unverwechselbaren Räumen. Diese Räume stehen Ihnen mit allem dazugehörigen Equipment zur Miete zur Verfügung. Gerne tragen wir auf Wunsch vieles dazu bei. Von der Grundausstattung, <b>Dekoration, Mittelalterzelt, Oldtimer, großer Grill ( indu+), Gastrokonzept “Flambi-Spieß”, Live-Musiker uvm.</b></p>
-          </section>
-
-          <section>
+    
           <p>Stube mit Kachelofen, Theke: <span>30 Plätze</span></p>
           <p>Ratsherrenzimmer mit Kachelofen, Renaissance: <span>20 Plätze</span></p>
           <p>großer Saal mit Terrasse: <span>80 Plätze</span></p>
         </section>
       </div>
 
-      <section id="catering">
+      <section id="catering" className="display-none">
         <h2>Catering</h2>
         <ul>
           <li><a href="https://www.stern-landgasthof.de" target="_blank"><h3>Landgasthof Stern Bühlertann</h3></a></li>
@@ -52,11 +53,11 @@ const BlogIndex = ({ data, location }) => {
         </ul>
       </section>
 
-      <Food />
+      <Food className="display-none" />
 
-      <Events />
+      <Events className="display-none" />
 
-      <section>
+      <section className="display-none">
         <h2 className="centered">Aktuelles</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
@@ -77,7 +78,7 @@ const BlogIndex = ({ data, location }) => {
         })}
       </section>
 
-      <Button />
+      <Button className="display-none" />
 
     </Layout>
   )
