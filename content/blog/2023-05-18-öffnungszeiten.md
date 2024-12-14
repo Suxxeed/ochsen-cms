@@ -1,6 +1,6 @@
 ---
 title: Öffnungszeiten
-date: 2023-07-14T09:19:26.179Z
+date: 2024-12-14T23:45:56.335Z
 description: Öffnungszeiten Museumsgasthof
 ---
 **S﻿eit 01.11.2024 haben wir einen neuen Betreiber** 
