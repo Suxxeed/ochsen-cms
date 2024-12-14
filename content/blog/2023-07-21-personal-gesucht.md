@@ -1,6 +1,6 @@
 ---
 title: Neueröffnung
-date: 2024-11-18T10:38:57.012Z
+date: 2024-12-14T23:46:31.681Z
 description: "Neueröffnung Betrieb ab 01.11.2024 "
 ---
 N﻿eueröffnung mit 01.11.2024. 
